@@ -1,26 +1,26 @@
 # Project Title      
-    This is my project title
+    README generator
 
 # Project Descrition      
-    My project does stuff
+    Automatically generates a README file for your project
 
 # Table of Contents      
     1. stuff 2. more stuff 3. even more stuff 4. all the stuff
 
 # Installation Instructions      
-    please install me
+    need npm packages: inquirer and fs
 
 # Usage Information      
-    please use me
+    after installed run 'node index.js' in your terminal
 
 # License Information      
-    license 1234356
+    no license
 
 # Contributing Members      
-    only me
+    Karly Maruyama
 
 # Tests      
-    it was tested
+    Tested by creator and used to create this README
 
 # Contact Information      
     karlypaige karlypaige@yahoo.com
